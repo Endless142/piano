@@ -1,0 +1,15 @@
+C:\Users\Максим\Desktop\С#\piano\piano\obj\Debug\net6.0\piano.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\С#\piano\piano\obj\Debug\net6.0\piano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Desktop\С#\piano\piano\obj\Debug\net6.0\piano.AssemblyInfoInputs.cache
+C:\Users\Максим\Desktop\С#\piano\piano\obj\Debug\net6.0\piano.AssemblyInfo.cs
+C:\Users\Максим\Desktop\С#\piano\piano\obj\Debug\net6.0\piano.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\С#\piano\piano\bin\Debug\net6.0\piano.exe
+C:\Users\Максим\Desktop\С#\piano\piano\bin\Debug\net6.0\piano.deps.json
+C:\Users\Максим\Desktop\С#\piano\piano\bin\Debug\net6.0\piano.runtimeconfig.json
+C:\Users\Максим\Desktop\С#\piano\piano\bin\Debug\net6.0\piano.dll
+C:\Users\Максим\Desktop\С#\piano\piano\bin\Debug\net6.0\piano.pdb
+C:\Users\Максим\Desktop\С#\piano\piano\obj\Debug\net6.0\piano.dll
+C:\Users\Максим\Desktop\С#\piano\piano\obj\Debug\net6.0\refint\piano.dll
+C:\Users\Максим\Desktop\С#\piano\piano\obj\Debug\net6.0\piano.pdb
+C:\Users\Максим\Desktop\С#\piano\piano\obj\Debug\net6.0\piano.genruntimeconfig.cache
+C:\Users\Максим\Desktop\С#\piano\piano\obj\Debug\net6.0\ref\piano.dll
